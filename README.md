@@ -1,10 +1,10 @@
 # cantera-rosa
 
-## **Overview: 
+## **Overview:**
 
 Necesto un servicio que me permita administrar mis productos y alimentos disponibles, para que los clientes sean capaces de ver el menu y produtos de los cuales disponen para hacer pedidos.
 
-### **Alcance(Scope)**
+### **Scope**
 
 Dejar la aplicacion en produccion, se espera que los usuarios que pueda interactuar sean, clientes, administradores y trabjadores.
 
@@ -30,7 +30,7 @@ La acciones permitidas a los perfiles son.
 - Como trabajador quier cerrar cuentas
 - El sistema debe generar un historial de lo que se ha pedido
 
-### **Out of Scope (casos de uso No Soportados)**
+### **Out of Scope**
 
 En esta primera version las cosas que estan fuera, pero seran implementadas en un futuro son.
 
