@@ -13,6 +13,10 @@ Dejar la aplicacion en produccion, se espera que los usuarios que pueda interact
 La acciones permitidas a los perfiles son.
 
 - Como trabajador, cliente y administrador quiero poder accerder con mi usuario y contraseña
+- Como administradro quiero dar de alta sucursales
+- Como administradro quiero editar sucursales
+- Como administradro quiero ver sucursales
+- Como administradro quiero eliminar sucursales
 - Como trabajador quiero dar de alta productos
 - Como trabajador quiero editar productos
 - Como trabajador quiero ver productos
@@ -43,6 +47,7 @@ En esta primera version las cosas que estan fuera, pero seran implementadas en u
 
 ## **Arquitectura**
 
+![Infraestructure ](https://github.com/esvarez/cantera-rosa/blob/master/img/cantera_infraestructura.jpeg?raw=true)
 
 ### **Diagramas**
 
