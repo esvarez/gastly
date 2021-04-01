@@ -2,11 +2,18 @@
 
 ## **Overview:**
 
-Necesto un servicio que me permita administrar mis productos y alimentos disponibles, para que los clientes sean capaces de ver el menu y produtos de los cuales disponen para hacer pedidos.
+Un negocio que se dedica a rentar juegos de mesa y acompañarlos con bebidas y botanas desea llevar la gestion de su negocio.
 
+- Requiere un portal para administras su recursos y trabajadores asi como un espacio para sus clientes.
+- En el portal del negocio podra gestionar sus recursos y trabajadores
+- Los trabajadores podran gestionar el negocio con menos privilegios
+- Los clientes podran consultar el menu de alimentos y la lista de juegos disponibles
+- Los clientes podran hacer pedidos por mesa y consultar su cuenta.
 ### **Scope**
 
-Dejar la aplicacion en produccion, se espera que los usuarios que pueda interactuar sean, clientes, administradores y trabjadores.
+Un portal para administrar los alimentos y juegos de mesa un **CRUD** (crear, consultar, actualizar y eliminar). Tambien se podran dar de alta empleados.
+
+Un portal para consultar y hacer pedidos.
 
 ### **Casos de uso**
 
@@ -31,6 +38,8 @@ La acciones permitidas a los perfiles son.
 - Como trabajador quiero recibir los pedidos con la informacion necesaria (Productos y mesa)
 - Como cliente quiero poder consultar mi cuenta
 - Como cliente quiero poder agregar mas productos a mi mesa
+- Como cliente quiero filtrar y ordenar los juegos de mesa por: tiempo promedio de partida, numero de jugadores y precio
+- Como trabajador quiero recibir una notificacion de que un pedido se ah hecho.
 - Como trabajador quier cerrar cuentas
 - El sistema debe generar un historial de lo que se ha pedido
 
@@ -47,7 +56,7 @@ En esta primera version las cosas que estan fuera, pero seran implementadas en u
 
 ## **Arquitectura**
 
-![Infraestructure ](https://github.com/esvarez/cantera-rosa/blob/master/img/cantera_infraestructura.jpeg?raw=true)
+![Infraestructure](https://github.com/esvarez/cantera-rosa/blob/master/img/cantera_infraestructura.jpeg?raw=true)
 
 ### **Diagramas**
 
