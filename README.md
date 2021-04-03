@@ -38,7 +38,7 @@ La acciones permitidas a los perfiles son.
 - Como trabajador quiero recibir los pedidos con la informacion necesaria (Productos y mesa)
 - Como cliente quiero poder consultar mi cuenta
 - Como cliente quiero poder agregar mas productos a mi mesa
-- Como cliente quiero filtrar y ordenar los juegos de mesa por: tiempo promedio de partida, numero de jugadores y precio
+- Como cliente quiero filtrar y ordenar los juegos de mesa por: tiempo promedio de partida, numero de jugadores, edad recomendada y precio
 - Como trabajador quiero recibir una notificacion de que un pedido se ah hecho.
 - Como trabajador quier cerrar cuentas
 - El sistema debe generar un historial de lo que se ha pedido
@@ -60,8 +60,8 @@ En esta primera version las cosas que estan fuera, pero seran implementadas en u
 
 ### **Diagramas**
 
-TBD
+Los diagramas estaran en los proyectosa a los que correspondan
 
 ### **Modelo de datos**
 
-TBD
+Los modelos estaran en los proyectos a los que pertenecen
