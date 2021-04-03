@@ -56,7 +56,7 @@ En esta primera version las cosas que estan fuera, pero seran implementadas en u
 
 ## **Arquitectura**
 
-![Infraestructure](https://github.com/esvarez/cantera-rosa/blob/master/img/cantera_infraestructura.jpeg?raw=true)
+![Infraestructure](./img/cantera_infraestructura.jpeg?raw=true)
 
 ### **Diagramas**
 
