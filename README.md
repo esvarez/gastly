@@ -56,11 +56,9 @@ En esta primera version las cosas que estan fuera, pero seran implementadas en u
 
 ## **Arquitectura**
 
-![Infraestructure](./img/cantera_infraestructura.jpeg?raw=true)
-
 ### **Diagramas**
 
-Los diagramas estaran en los proyectosa a los que correspondan
+![Infraestructure](./img/cantera_infraestructura.jpeg?raw=true)
 
 ### **Modelo de datos**
 
