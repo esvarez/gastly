@@ -23,6 +23,7 @@ La acciones permitidas a los perfiles son.
 - Como administrador quiero crear/editar/consultar/eliminar productos de stock
 - Como administrador quiero ver una bitacora/historial de los movimientos en stock
 - Como administrador quiero crear/editar/consultar/eliminar productos del menu
+- Como administrador quiero crear/editar/consultar/eliminar trabajadores.
 - Como administrador quiero ver una bitacora/historial de ventas
 - Como administrador quiero registrar gastos
 - Como trabajador quiero ver productos
