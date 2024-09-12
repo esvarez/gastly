@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/esvarez/gastly/animation"
+	"github.com/esvarez/gastly/blur"
 )
 
 func main() {
-	animation.New()
+	blur.New()
 }
